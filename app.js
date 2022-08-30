@@ -49,6 +49,7 @@
         $span.appendChild($txt)
         $elem.appendChild($span)
       }
+      
     
       // Creamos las letras erradas
       var errado = juego.errado
