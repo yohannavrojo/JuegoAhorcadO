@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
 body{
     background: #E9ECF8;
     margin: 0px;
@@ -68,4 +69,11 @@ cursor: pointer;
     text-align: center;
     padding-top: 2rem;
     background: inherit;
+}
+
+footer{
+    padding: 20px;
+    display: grid;
+    justify-content: space-evenly;
+    font-family: 'Satisfy', cursive;
 }
